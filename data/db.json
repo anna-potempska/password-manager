@@ -1,0 +1,25 @@
+{
+  "password": [
+    {
+      "service": "Facebook32",
+      "username": "ania",
+      "password": "54321",
+      "note": "",
+      "id": "bda3"
+    },
+    {
+      "id": "5f73",
+      "service": "Instagram",
+      "username": "Anna",
+      "password": "jgjkdbgjkfd",
+      "note": ""
+    },
+    {
+      "id": "e354",
+      "service": "Youtube",
+      "username": "Anna",
+      "password": "gfjkdgkjfdjk",
+      "note": "Change"
+    }
+  ]
+}
